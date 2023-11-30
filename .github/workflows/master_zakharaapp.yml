@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'zakharaapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D77A23CB533548C78ED36497E2110E5D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2EA249C8D02646D8BB3847F466709EF0 }}
           package: .
